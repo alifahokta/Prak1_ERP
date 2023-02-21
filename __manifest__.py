@@ -9,7 +9,7 @@
         Latihan membuat addons baru di odoo 1
     """,
     "depends"       : [
-        "base,"
+        "base",
     ],
     "data"          : [
 
